@@ -1,0 +1,12 @@
+1. Install Sublime Text.
+
+2. Overwrite the main executable ("sublime_text") in program dir with the cracked one.
+
+3. Start Sublime Text and register with license from "sublime_text_license.txt".
+
+4. Block program in firewall and disable auto update!
+
+5. Sublime Text is now activated.
+
+Enjoy it!
+/X-FORCE 2022
